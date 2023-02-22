@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/homeworksem6/ex43/bin/Debug/net6.0/ex43
+/Users/delyashchuriumova/homeworksem6/ex43/bin/Debug/net6.0/ex43.deps.json
+/Users/delyashchuriumova/homeworksem6/ex43/bin/Debug/net6.0/ex43.runtimeconfig.json
+/Users/delyashchuriumova/homeworksem6/ex43/bin/Debug/net6.0/ex43.dll
+/Users/delyashchuriumova/homeworksem6/ex43/bin/Debug/net6.0/ex43.pdb
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.AssemblyInfo.cs
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.dll
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/refint/ex43.dll
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.pdb
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ex43.genruntimeconfig.cache
+/Users/delyashchuriumova/homeworksem6/ex43/obj/Debug/net6.0/ref/ex43.dll
