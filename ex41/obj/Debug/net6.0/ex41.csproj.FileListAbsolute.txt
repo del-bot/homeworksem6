@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/homeworksem6/ex41/bin/Debug/net6.0/ex41
+/Users/delyashchuriumova/homeworksem6/ex41/bin/Debug/net6.0/ex41.deps.json
+/Users/delyashchuriumova/homeworksem6/ex41/bin/Debug/net6.0/ex41.runtimeconfig.json
+/Users/delyashchuriumova/homeworksem6/ex41/bin/Debug/net6.0/ex41.dll
+/Users/delyashchuriumova/homeworksem6/ex41/bin/Debug/net6.0/ex41.pdb
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.AssemblyInfo.cs
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.dll
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/refint/ex41.dll
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.pdb
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ex41.genruntimeconfig.cache
+/Users/delyashchuriumova/homeworksem6/ex41/obj/Debug/net6.0/ref/ex41.dll
